@@ -44,6 +44,8 @@ System utilities, package managers, and hardware integration scripts.
 
 | Utility | Description |
 | :--- | :--- |
+| [kaffeine-fixes](https://github.com/PlasmaDrifter/kaffeine-fixes) | Patched KDE Kaffeine 2.0.19: fixes bug that crashes Kaffeine when adding channels, Wayland LibVLC embedding, tuner lockups, and EPG timing. |
+| [Kaffeine-DVR-TV-Guide](https://github.com/PlasmaDrifter/Kaffeine-DVR-TV-Guide) | DVR TV guide and electronic programming guide integration for Kaffeine. |
 | [logitech-battery-tray](https://github.com/PlasmaDrifter/logitech-battery-tray) | Lightweight Linux system tray battery monitor for Logitech wireless mice with custom vector styles, battery life estimator, and charge history tracking. |
 | [AutoLaunch](https://github.com/PlasmaDrifter/AutoLaunch) | Application autostart and launch management utility. |
 | [Zen.updater.gui](https://github.com/PlasmaDrifter/Zen.updater.gui) | Graphical updater interface utility for Zen Browser. |
@@ -57,6 +59,4 @@ Browser add-ons and media processing tools.
 | Project | Description |
 | :--- | :--- |
 | [yt-dlp-firefox-extension](https://github.com/PlasmaDrifter/yt-dlp-firefox-extension) | Firefox / Gecko WebExtension and local bridge server for seamless one-click video and audio downloads using yt-dlp. |
-| [kaffeine-fixes](https://github.com/PlasmaDrifter/kaffeine-fixes) | Patched KDE Kaffeine 2.0.19: fixes bug that crashes Kaffeine when adding channels, Wayland LibVLC embedding, tuner lockups, and EPG timing. |
-| [Kaffeine-DVR-TV-Guide](https://github.com/PlasmaDrifter/Kaffeine-DVR-TV-Guide) | DVR TV guide and electronic programming guide integration for Kaffeine. |
 | [twitch-kick-previews](https://github.com/PlasmaDrifter/twitch-kick-previews) | Stream preview utility for Twitch and Kick streams. |
