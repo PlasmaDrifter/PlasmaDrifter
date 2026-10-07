@@ -32,7 +32,6 @@ Self-hosted web dashboards and services.
 | Application | Description |
 | :--- | :--- |
 | [NewsCurator](https://github.com/PlasmaDrifter/NewsCurator) | Fast, self-hosted, dark-themed RSS news aggregator dashboard built with FastAPI, Jinja2, SQLite, and Podman Quadlet. |
-| [Services-dashboard](https://github.com/PlasmaDrifter/Services-dashboard) | Lightweight web dashboard to monitor and manage rootless Podman Quadlet containers, user systemd services, and scheduled timers. |
 | [Emulator-Web-Catelog](https://github.com/PlasmaDrifter/Emulator-Web-Catelog) | Fast, lightweight web catalog and launcher for retro and modern ROM collections with native emulator launching, SteamGridDB scraping, and custom themes. |
 
 ---
@@ -43,6 +42,7 @@ System utilities, package managers, and hardware integration scripts.
 
 | Utility | Description |
 | :--- | :--- |
+| [Services-dashboard](https://github.com/PlasmaDrifter/Services-dashboard) | Lightweight web dashboard to monitor and manage rootless Podman Quadlet containers, user systemd services, and scheduled timers. |
 | [AppIndex](https://github.com/PlasmaDrifter/AppIndex) | Universal Linux application and package inventory inspector for Flatpak, AppImage, RPM, Pacman, APT, Steam, and PWAs. |
 | [logitech-battery-tray](https://github.com/PlasmaDrifter/logitech-battery-tray) | Lightweight Linux system tray battery monitor for Logitech wireless mice with custom vector styles, battery life estimator, and charge history tracking. |
 | [AutoLaunch](https://github.com/PlasmaDrifter/AutoLaunch) | Application autostart and launch management utility. |
