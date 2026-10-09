@@ -60,3 +60,12 @@ Browser add-ons and media processing tools.
 | :--- | :--- |
 | [yt-dlp-firefox-extension](https://github.com/PlasmaDrifter/yt-dlp-firefox-extension) | Firefox / Gecko WebExtension and local bridge server for seamless one-click video and audio downloads using yt-dlp. |
 | [twitch-kick-previews](https://github.com/PlasmaDrifter/twitch-kick-previews) | Stream preview utility for Twitch and Kick streams. |
+
+---
+
+## Community & Discussions
+
+Got questions, setup ideas, or feedback?
+
+* Join our subreddit at [**r/PlasmaDrifterProjects**](https://reddit.com/r/PlasmaDrifterProjects) to discuss updates, get support, and share configurations.
+* Contact directly via email at [**plasmadrifter121@gmail.com**](mailto:plasmadrifter121@gmail.com).
