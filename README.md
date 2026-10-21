@@ -31,10 +31,11 @@ Self-hosted web dashboards and services.
 
 | Application | Description |
 | :--- | :--- |
-| [Services-dashboard](https://github.com/PlasmaDrifter/Services-dashboard) | Lightweight web dashboard to monitor and manage rootless Podman Quadlet containers, user systemd services, and scheduled timers. |
 | [AppIndex](https://github.com/PlasmaDrifter/AppIndex) | Universal Linux application and package inventory inspector for Flatpak, AppImage, RPM, Pacman, APT, Steam, and PWAs. |
-| [NewsCurator](https://github.com/PlasmaDrifter/NewsCurator) | Fast, self-hosted, dark-themed RSS news aggregator dashboard built with FastAPI, Jinja2, SQLite, and Podman Quadlet. |
 | [Emulator-Web-Catelog](https://github.com/PlasmaDrifter/Emulator-Web-Catelog) | Fast, lightweight web catalog and launcher for retro and modern ROM collections with native emulator launching, SteamGridDB scraping, and custom themes. |
+| [NewsCurator](https://github.com/PlasmaDrifter/NewsCurator) | Fast, self-hosted, dark-themed RSS news aggregator dashboard built with FastAPI, Jinja2, SQLite, and Podman Quadlet. |
+| [ReleaseRadar](https://github.com/PlasmaDrifter/ReleaseRadar) | Web dashboard and background service to track GitHub releases, monitor starred repositories, and detect local tool/AppImage updates. |
+| [Services-dashboard](https://github.com/PlasmaDrifter/Services-dashboard) | Lightweight web dashboard to monitor and manage rootless Podman Quadlet containers, user systemd services, and scheduled timers. |
 
 ---
 
@@ -44,11 +45,12 @@ System utilities, package managers, and hardware integration scripts.
 
 | Utility | Description |
 | :--- | :--- |
+| [AutoLaunch](https://github.com/PlasmaDrifter/AutoLaunch) | Modern native Linux desktop startup application manager with profiles, sequencing, and countdown timer. |
 | [kaffeine-fixes](https://github.com/PlasmaDrifter/kaffeine-fixes) | Patched KDE Kaffeine 2.0.19: fixes bug that crashes Kaffeine when adding channels, Wayland LibVLC embedding, tuner lockups, and EPG timing. |
-| [Kaffeine-DVR-TV-Guide](https://github.com/PlasmaDrifter/Kaffeine-DVR-TV-Guide) | DVR TV guide and electronic programming guide integration for Kaffeine. |
 | [logitech-battery-tray](https://github.com/PlasmaDrifter/logitech-battery-tray) | Lightweight Linux system tray battery monitor for Logitech wireless mice with custom vector styles, battery life estimator, and charge history tracking. |
-| [AutoLaunch](https://github.com/PlasmaDrifter/AutoLaunch) | Application autostart and launch management utility. |
-| [Zen.updater.gui](https://github.com/PlasmaDrifter/Zen.updater.gui) | Graphical updater interface utility for Zen Browser. |
+| [NextBoot](https://github.com/PlasmaDrifter/NextBoot) | Fast multi-OS one-time reboot utility for Nobara and Linux systems using UEFI BootNext with native Qt GUI and CLI. |
+| [TV.Guide.DVR.Kaffeine](https://github.com/PlasmaDrifter/TV.Guide.DVR.Kaffeine) | Modern TV Guide browser, auto-record series rules scheduler, and safe Just-In-Time DVR daemon for Kaffeine on Linux. |
+| [Zen.updater.gui](https://github.com/PlasmaDrifter/Zen.updater.gui) | Graphical updater interface, profile launcher, and background notification service for Zen Browser. |
 
 ---
 
@@ -58,8 +60,9 @@ Browser add-ons and media processing tools.
 
 | Project | Description |
 | :--- | :--- |
+| [Polyglot-Page-Translator](https://github.com/PlasmaDrifter/Polyglot-Page-Translator) | Firefox WebExtension designed to translate entire web pages containing multiple different languages simultaneously with per-block language detection. |
+| [twitch-kick-previews](https://github.com/PlasmaDrifter/twitch-kick-previews) | Stream preview Firefox extension with live hover previews, multi-stream pinned overlays, and individual volume controls for Twitch and Kick. |
 | [yt-dlp-firefox-extension](https://github.com/PlasmaDrifter/yt-dlp-firefox-extension) | Firefox / Gecko WebExtension and local bridge server for seamless one-click video and audio downloads using yt-dlp. |
-| [twitch-kick-previews](https://github.com/PlasmaDrifter/twitch-kick-previews) | Stream preview utility for Twitch and Kick streams. |
 
 ---
 
