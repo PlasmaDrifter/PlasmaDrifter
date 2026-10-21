@@ -34,7 +34,6 @@ Self-hosted web dashboards and services.
 | [AppIndex](https://github.com/PlasmaDrifter/AppIndex) | Universal Linux application and package inventory inspector for Flatpak, AppImage, RPM, Pacman, APT, Steam, and PWAs. |
 | [Emulator-Web-Catelog](https://github.com/PlasmaDrifter/Emulator-Web-Catelog) | Fast, lightweight web catalog and launcher for retro and modern ROM collections with native emulator launching, SteamGridDB scraping, and custom themes. |
 | [NewsCurator](https://github.com/PlasmaDrifter/NewsCurator) | Fast, self-hosted, dark-themed RSS news aggregator dashboard built with FastAPI, Jinja2, SQLite, and Podman Quadlet. |
-| [ReleaseRadar](https://github.com/PlasmaDrifter/ReleaseRadar) | Web dashboard and background service to track GitHub releases, monitor starred repositories, and detect local tool/AppImage updates. |
 | [Services-dashboard](https://github.com/PlasmaDrifter/Services-dashboard) | Lightweight web dashboard to monitor and manage rootless Podman Quadlet containers, user systemd services, and scheduled timers. |
 
 ---
