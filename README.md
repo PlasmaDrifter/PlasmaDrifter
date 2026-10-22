@@ -47,6 +47,7 @@ System utilities, package managers, and hardware integration scripts.
 | [AutoLaunch](https://github.com/PlasmaDrifter/AutoLaunch) | Modern native Linux desktop startup application manager with profiles, sequencing, and countdown timer. |
 | [kaffeine-fixes](https://github.com/PlasmaDrifter/kaffeine-fixes) | Patched KDE Kaffeine 2.0.19: fixes bug that crashes Kaffeine when adding channels, Wayland LibVLC embedding, tuner lockups, and EPG timing. |
 | [logitech-battery-tray](https://github.com/PlasmaDrifter/logitech-battery-tray) | Lightweight Linux system tray battery monitor for Logitech wireless mice with custom vector styles, battery life estimator, and charge history tracking. |
+| [Logitech-Onboard-Memory-Manager](https://github.com/PlasmaDrifter/Logitech-Onboard-Memory-Manager) | Native Linux GUI to inspect, remap buttons, and burn onboard memory profiles directly to Logitech gaming mice via HID++ 2.0 with interactive visualizer. |
 | [NextBoot](https://github.com/PlasmaDrifter/NextBoot) | Fast multi-OS one-time reboot utility for Nobara and Linux systems using UEFI BootNext with native Qt GUI and CLI. |
 | [TV.Guide.DVR.Kaffeine](https://github.com/PlasmaDrifter/TV.Guide.DVR.Kaffeine) | Modern TV Guide browser, auto-record series rules scheduler, and safe Just-In-Time DVR daemon for Kaffeine on Linux. |
 | [Zen.updater.gui](https://github.com/PlasmaDrifter/Zen.updater.gui) | Graphical updater interface, profile launcher, and background notification service for Zen Browser. |
