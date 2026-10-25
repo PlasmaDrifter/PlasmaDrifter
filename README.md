@@ -61,6 +61,7 @@ Browser add-ons and media processing tools.
 | Project | Description |
 | :--- | :--- |
 | [Polyglot-Page-Translator](https://github.com/PlasmaDrifter/Polyglot-Page-Translator) | Firefox WebExtension designed to translate entire web pages containing multiple different languages simultaneously with per-block language detection. |
+| [twitch-DVR](https://github.com/PlasmaDrifter/twitch-DVR) | Rewind live Twitch streams, use dedicated in-player playback speed controls (0.5x–2x), quick-rewind buttons, and bypass login checks on Firefox & Zen Browser. |
 | [twitch-kick-previews](https://github.com/PlasmaDrifter/twitch-kick-previews) | Stream preview Firefox extension with live hover previews, multi-stream pinned overlays, and individual volume controls for Twitch and Kick. |
 | [yt-dlp-firefox-extension](https://github.com/PlasmaDrifter/yt-dlp-firefox-extension) | Firefox / Gecko WebExtension and local bridge server for seamless one-click video and audio downloads using yt-dlp. |
 
