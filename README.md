@@ -45,6 +45,7 @@ System utilities, package managers, and hardware integration scripts.
 | Utility | Description |
 | :--- | :--- |
 | [AutoLaunch](https://github.com/PlasmaDrifter/AutoLaunch) | Modern native Linux desktop startup application manager with profiles, sequencing, and countdown timer. |
+| [CVE-Scanner](https://github.com/PlasmaDrifter/CVE-Scanner) | Lightweight system tray security scanner and sentinel for Nobara Linux and Fedora-based systems to audit unpatched CVEs, firmware advisories, kernel reboot state, and open ports. |
 | [kaffeine-fixes](https://github.com/PlasmaDrifter/kaffeine-fixes) | Patched KDE Kaffeine 2.0.19: fixes bug that crashes Kaffeine when adding channels, Wayland LibVLC embedding, tuner lockups, and EPG timing. |
 | [logitech-battery-tray](https://github.com/PlasmaDrifter/logitech-battery-tray) | Lightweight Linux system tray battery monitor for Logitech wireless mice with custom vector styles, battery life estimator, and charge history tracking. |
 | [Logitech-Onboard-Memory-Manager](https://github.com/PlasmaDrifter/Logitech-Onboard-Memory-Manager) | Native Linux GUI to inspect, remap buttons, and burn onboard memory profiles directly to Logitech gaming mice via HID++ 2.0 with interactive visualizer. |
